@@ -1,7 +1,7 @@
 main
 {
     margin: 0 auto;
-    width: 64.5%;
+    width: 71.7%;
 }
 
 .display
@@ -63,7 +63,7 @@ main
 
 .tile
 {
-    width: 300px;
+    width: 299px;
     height: auto;
     border: 3px solid #808080;
     display: inline-block;
